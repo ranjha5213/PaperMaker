@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Urdu specific strings -->
+    <string name="app_name">اردو پرچہ میکر</string>
+    <string name="title_main">اردو پرچہ میکر</string>
+    <string name="welcome_message">خوش آمدید! پرچے بنانا شروع کریں۔</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">ہوم</string>
+    <string name="nav_questions">سوالات</string>
+    <string name="nav_generate">پرچہ بنائیں</string>
+    <string name="nav_history">تاریخ</string>
+    <string name="nav_settings">ترتیبات</string>
+    
+    <!-- Actions -->
+    <string name="action_add">شامل کریں</string>
+    <string name="action_edit">ترمیم</string>
+    <string name="action_delete">حذف</string>
+    <string name="action_share">شیئر کریں</string>
+    <string name="action_save">محفوظ کریں</string>
+    
+    <!-- Status -->
+    <string name="status_loading">لوڈ ہو رہا ہے…</string>
+    <string name="status_saving">محفوظ ہو رہا ہے…</string>
+    <string name="status_generating">پرچہ بن رہا ہے…</string>
+    <string name="status_completed">مکمل ہو گیا</string>
+    
+    <!-- Instructions -->
+    <string name="instruction_select_mode">طریقہ منتخب کریں:</string>
+    <string name="instruction_upload_file">فائل اپ لوڈ کریں:</string>
+    <string name="instruction_enter_details">تفصیلات درج کریں:</string>
+    
+    <!-- File Formats -->
+    <string name="format_instructions_txt">
+ٹیکسٹ فائل فارمیٹ:
+1. سوال؟
+الف) جواب الف
+ب) جواب ب
+ج) جواب ج
+د) جواب د
+
+2. دوسرا سوال؟
+الف) جواب الف
+ب) جواب ب
+ج) جواب ج
+د) جواب د
+    </string>
+    
+    <string name="format_instructions_csv">
+CSV فائل فارمیٹ:
+سوال,جواب الف,جواب ب,جواب ج,جواب د
+سوال نمبر 1,جواب الف,جواب ب,جواب ج,جواب د
+سوال نمبر 2,جواب الف,جواب ب,جواب ج,جواب د
+    </string>
+</resources>

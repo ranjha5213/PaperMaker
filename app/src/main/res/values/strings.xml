@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Info -->
+    <string name="app_name">اردو پرچہ میکر</string>
+    <string name="app_description">آف لائن پرچہ جنریٹر ایپ</string>
+    
+    <!-- Main Activity -->
+    <string name="title_main">اردو پرچہ میکر</string>
+    <string name="menu_import">فائل درآمد کریں</string>
+    <string name="menu_export">برآمد کریں</string>
+    <string name="menu_settings">ترتیبات</string>
+    <string name="menu_about">ہمارے بارے میں</string>
+    
+    <!-- Buttons -->
+    <string name="btn_add_question">نیا سوال شامل کریں</string>
+    <string name="btn_generate_paper">پرچہ بنائیں</string>
+    <string name="btn_import_file">فائل درآمد کریں</string>
+    <string name="btn_export_pdf">PDF بنائیں</string>
+    <string name="btn_print">پرنٹ کریں</string>
+    <string name="btn_save">محفوظ کریں</string>
+    <string name="btn_cancel">منسوخ کریں</string>
+    <string name="btn_delete">حذف کریں</string>
+    <string name="btn_edit">ترمیم کریں</string>
+    
+    <!-- Labels -->
+    <string name="label_school_name">اسکول کا نام</string>
+    <string name="label_class">کلاس</string>
+    <string name="label_subject">مضمون</string>
+    <string name="label_total_marks">کل نمبر</string>
+    <string name="label_time">وقت</string>
+    <string name="label_instructions">ہدایات</string>
+    <string name="label_questions">سوالات</string>
+    <string name="label_selected">منتخب شدہ</string>
+    <string name="label_random">خودکار</string>
+    <string name="label_manual">دستی</string>
+    
+    <!-- Placeholders -->
+    <string name="hint_school_name">اسکول کا نام درج کریں</string>
+    <string name="hint_class">مثال: 10th</string>
+    <string name="hint_subject">مثال: اسلامیات</string>
+    <string name="hint_question">سوال درج کریں</string>
+    <string name="hint_option_a">اختیار الف</string>
+    <string name="hint_option_b">اختیار ب</string>
+    <string name="hint_option_c">اختیار ج</string>
+    <string name="hint_option_d">اختیار د</string>
+    
+    <!-- Messages -->
+    <string name="msg_no_questions">کوئی سوالات نہیں ہیں</string>
+    <string name="msg_select_questions">کم از کم ایک سوال منتخب کریں</string>
+    <string name="msg_import_success">سوالات درآمد ہو گئے: %d</string>
+    <string name="msg_export_success">PDF بن گیا ہے</string>
+    <string name="msg_save_success">محفوظ ہو گیا</string>
+    <string name="msg_delete_confirm">کیا آپ واقعی حذف کرنا چاہتے ہیں؟</string>
+    
+    <!-- Errors -->
+    <string name="error_file_not_found">فائل نہیں ملی</string>
+    <string name="error_invalid_format">غلط فارمیٹ</string>
+    <string name="error_parsing_failed">فائل پڑھنے میں خرابی</string>
+    <string name="error_no_storage">اسٹوریج کی اجازت نہیں</string>
+    <string name="error_pdf_failed">PDF بنانے میں خرابی</string>
+    
+    <!-- File Types -->
+    <string name="file_type_txt">ٹیکسٹ فائل (.txt)</string>
+    <string name="file_type_csv">CSV فائل (.csv)</string>
+    <string name="file_type_all">تمام فائلیں</string>
+    
+    <!-- Sample Questions -->
+    <string name="sample_question_1">کیا اسلام کا بنیادی عقیدہ کیا ہے؟</string>
+    <string name="sample_option_1a">توحید</string>
+    <string name="sample_option_1b">رسالت</string>
+    <string name="sample_option_1c">آخرت</string>
+    <string name="sample_option_1d">نماز</string>
+    
+    <!-- Formats -->
+    <string name="format_txt">"1. سوال؟
+الف) جواب الف
+ب) جواب ب
+ج) جواب ج
+د) جواب د
+
+"</string>
+    <string name="format_csv">"سوال,جواب الف,جواب ب,جواب ج,جواب د"</string>
+</resources>
