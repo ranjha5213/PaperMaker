@@ -1,10 +1,10 @@
-package com.example.urdupapermaker.database
+package com.qalam.papermaker.database
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
 import androidx.room.TypeConverters
-import com.example.urdupapermaker.models.Paper
-import com.example.urdupapermaker.models.Question
+import com.qalam.papermaker.models.Paper
+import com.qalam.papermaker.models.Question
 
 @Database(
     entities = [Question::class, Paper::class],

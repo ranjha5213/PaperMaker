@@ -1,4 +1,4 @@
-package com.example.urdupapermaker.activities
+package com.qalam.papermaker.activities
 
 import android.Manifest
 import android.content.Intent
@@ -19,12 +19,12 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.example.urdupapermaker.R
-import com.example.urdupapermaker.adapters.QuestionAdapter
-import com.example.urdupapermaker.databinding.ActivityMainBinding
-import com.example.urdupapermaker.models.Question
-import com.example.urdupapermaker.utils.FileParser
-import com.example.urdupapermaker.utils.PermissionHelper
+import com.qalam.papermaker.R
+import com.qalam.papermaker.adapters.QuestionAdapter
+import com.qalam.papermaker.databinding.ActivityMainBinding
+import com.qalam.papermaker.models.Question
+import com.qalam.papermaker.utils.FileParser
+import com.qalam.papermaker.utils.PermissionHelper
 import com.google.android.material.snackbar.Snackbar
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers

@@ -1,6 +1,6 @@
-package com.example.urdupapermaker.utils
+package com.qalam.papermaker.utils
 
-import com.example.urdupapermaker.models.Question
+import com.qalam.papermaker.models.Question
 import java.io.BufferedReader
 import java.io.StringReader
 import java.util.regex.Pattern

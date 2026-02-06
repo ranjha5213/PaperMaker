@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.urdupapermaker'
+    namespace 'com.qalam.papermaker'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.urdupapermaker"
+        applicationId "com.qalam.papermaker"
         minSdk 21
         targetSdk 34
         versionCode 1

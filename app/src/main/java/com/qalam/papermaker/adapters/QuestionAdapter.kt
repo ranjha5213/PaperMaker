@@ -1,4 +1,4 @@
-package com.example.urdupapermaker.adapters
+package com.qalam.papermaker.adapters
 
 import android.view.LayoutInflater
 import android.view.View
@@ -6,8 +6,8 @@ import android.view.ViewGroup
 import android.widget.CheckBox
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
-import com.example.urdupapermaker.R
-import com.example.urdupapermaker.models.Question
+import com.qalam.papermaker.R
+import com.qalam.papermaker.models.Question
 
 class QuestionAdapter(
     private var questions: List<Question>,

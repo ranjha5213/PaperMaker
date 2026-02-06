@@ -1,8 +1,8 @@
-package com.example.urdupapermaker
+package com.qalam.papermaker
 
 import android.app.Application
 import androidx.room.Room
-import com.example.urdupapermaker.database.AppDatabase
+import com.qalam.papermaker.database.AppDatabase
 
 class UrduPaperMakerApp : Application() {
     

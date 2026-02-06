@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- App Info -->
-    <string name="app_name">اردو پرچہ میکر</string>
+    <string name="app_name">قلم پرچہ میکر</string>
     <string name="app_description">آف لائن پرچہ جنریٹر ایپ</string>
     
     <!-- Main Activity -->
-    <string name="title_main">اردو پرچہ میکر</string>
+    <string name="title_main">قلم پرچہ میکر</string>
     <string name="menu_import">فائل درآمد کریں</string>
     <string name="menu_export">برآمد کریں</string>
     <string name="menu_settings">ترتیبات</string>

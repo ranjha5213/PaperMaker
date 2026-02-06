@@ -1,4 +1,4 @@
-package com.example.urdupapermaker.models
+package com.qalam.papermaker.models
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

@@ -1,4 +1,4 @@
-package com.example.urdupapermaker.utils
+package com.qalam.papermaker.utils
 
 import android.Manifest
 import android.app.Activity
