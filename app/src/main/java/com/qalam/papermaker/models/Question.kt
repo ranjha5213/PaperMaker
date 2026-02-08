@@ -51,7 +51,7 @@ data class Question(
     }
     
     fun toCsvRow(): String {
-        return ""$questionText","$optionA","$optionB","$optionC","$optionD""
+        return "$questionText,$optionA,$optionB,$optionC,$optionD"
     }
     
    fun toTextFormat(): String {

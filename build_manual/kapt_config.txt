@@ -1,0 +1,6 @@
+plugin:org.jetbrains.kotlin.kapt3:stubs=/workspaces/PaperMaker/build_manual/room_generated/stubs
+plugin:org.jetbrains.kotlin.kapt3:sources=/workspaces/PaperMaker/build_manual/room_generated/java_out
+plugin:org.jetbrains.kotlin.kapt3:classes=/workspaces/PaperMaker/build_manual/room_generated/classes
+plugin:org.jetbrains.kotlin.kapt3:aptMode=stubsAndApt
+plugin:org.jetbrains.kotlin.kapt3:processors=androidx.room.RoomProcessor
+plugin:org.jetbrains.kotlin.kapt3:apclasspath=/workspaces/PaperMaker/build_manual/libs/room-compiler-2.6.1.jar:/workspaces/PaperMaker/build_manual/libs/room-common-2.6.1.jar:/workspaces/PaperMaker/build_manual/libs/antlr4-4.9.3.jar:/workspaces/PaperMaker/build_manual/libs/symbol-processing-api-1.9.22-1.0.17.jar:/workspaces/PaperMaker/build_manual/libs/room-runtime.jar:/workspaces/PaperMaker/build_manual/libs/sqlite-2.4.0.jar
